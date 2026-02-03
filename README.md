@@ -1,13 +1,26 @@
 # Gainsight API Toolkit
 
+A practical Python toolkit for exploring the Gainsight NXT APIs and building read-only CSM workflows (timeline → company → contacts → domain insights).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **Disclaimer**: This is an independent, personal project and is **not** an official Gainsight product.
 
-## About
-Emir Belkahia — Staff Customer Success Manager at Algolia. I build automation for CS teams.
-Feel free to reach out on LinkedIn.
-A practical **Python toolkit** for exploring the Gainsight NXT APIs and building read-only CSM workflows (timeline → company → contacts → domain insights).
+## Table of Contents
 
-> This repository is designed to be **safe-by-default**: all scripts are read-only and use small limits.
+- [Overview](#overview)
+- [Why this exists](#why-this-exists)
+- [What it does](#what-it-does)
+- [Quick start](#quick-start)
+- [Scripts](#scripts)
+- [Environment variables](#environment-variables)
+- [Safety & privacy](#safety--privacy)
+- [Requirements](#requirements)
+- [Author](#author)
+
+## Overview
+
+This repository is designed to be **safe-by-default**: all scripts are read-only and use small limits to reduce the friction of working with Gainsight APIs.
 
 ## Why this exists
 - Reduce the friction of working with Gainsight APIs.
@@ -68,5 +81,25 @@ python3 csm-dashboard.py --user-email "you@company.com" --limit 3
 - Python 3.7+
 - `requests`
 
-## Status
-Maintained for personal use; contributions welcome.
+## Contributing
+
+Maintained for personal use; contributions welcome. Feel free to open an issue or submit a pull request.
+
+## License
+
+[MIT](LICENSE)
+
+## Author
+
+**Emir Belkahia**
+Staff Customer Success Manager @ Algolia
+
+- Website: [emirbelkahia.com](https://emirbelkahia.com)
+- LinkedIn: [linkedin.com/in/emirbelkahia](https://linkedin.com/in/emirbelkahia)
+- GitHub: [@emirbelkahia](https://github.com/emirbelkahia)
+
+## Support
+
+For questions or issues:
+- Open an [issue](https://github.com/emirbelkahia/gainsight-api-toolkit/issues)
+- Connect on [LinkedIn](https://linkedin.com/in/emirbelkahia)
