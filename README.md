@@ -2,8 +2,9 @@
 
 > **Disclaimer**: This is an independent, personal project and is **not** an official Gainsight product.
 
-## Personal branding
-If this toolkit helped you or inspired a workflow, feel free to mention or credit me on GitHub.
+## About
+Emir Belkahia — Staff Customer Success Manager at Algolia. I build automation for CS teams.
+Feel free to reach out on LinkedIn.
 A practical **Python toolkit** for exploring the Gainsight NXT APIs and building read-only CSM workflows (timeline → company → contacts → domain insights).
 
 > This repository is designed to be **safe-by-default**: all scripts are read-only and use small limits.
