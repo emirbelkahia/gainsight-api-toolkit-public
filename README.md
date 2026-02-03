@@ -54,7 +54,7 @@ python3 csm-dashboard.py --user-email "you@company.com" --limit 3
 ## Environment variables
 - `GAINSIGHT_DOMAIN` – e.g. `https://yourcompany.gainsightcloud.com`
 - `GAINSIGHT_ACCESS_KEY` – Gainsight access key
-- `GAINSIGHT_REDACT` – `1` (default) to redact sensitive output
+- `GAINSIGHT_REDACT` – `1` (default) masks emails in console output (example: `e***@company.com`). Set to `0` to disable masking.
 
 ## Safety & privacy
 - **Read‑only**: no create/update/delete operations.
