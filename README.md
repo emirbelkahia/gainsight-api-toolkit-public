@@ -1,5 +1,9 @@
 # Gainsight API Toolkit
 
+> **Disclaimer**: This is an independent, personal project and is **not** an official Gainsight product.
+
+## Personal branding
+If this toolkit helped you or inspired a workflow, feel free to mention or credit me on GitHub.
 A practical **Python toolkit** for exploring the Gainsight NXT APIs and building read-only CSM workflows (timeline → company → contacts → domain insights).
 
 > This repository is designed to be **safe-by-default**: all scripts are read-only and use small limits.
